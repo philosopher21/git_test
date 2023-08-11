@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>My--PRACTICE</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>hello World</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo aut
+        sapiente earum vel totam corporis eum voluptates quidem cum at, veniam
+        animi repellat molestiae deserunt dolor modi rerum esse nihil suscipit
+        libero debitis reprehenderit. Ullam possimus consectetur iste quas,
+        dolore velit repudiandae sunt voluptate quaerat blanditiis incidunt
+        officia libero asperiores corporis iusto quae suscipit ea aliquid
+        labore? Nihil quasi impedit sit reprehenderit culpa nam incidunt
+        necessitatibus dolores rem quisquam eaque voluptates sed sint voluptate
+        officiis, quia velit aliquam eum. Nemo ut adipisci minima, animi sed non
+        necessitatibus quibusdam vitae vel dolor pariatur libero veritatis omnis
+        voluptatibus magnam corporis ex iste.
+      </p>
+    </div>
+  </body>
